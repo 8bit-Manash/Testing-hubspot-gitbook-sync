@@ -9,6 +9,7 @@
   * [Testing 4](knowledge-base/reports/testing-4.md)
 * Support
   * [Question 1 Test Sync](knowledge-base/support/question-1-test-sync.md)
+  * [Test 1](knowledge-base/support/test-1.md)
   * [Testing 3](knowledge-base/support/testing-3.md)
   * [Testing Gitbook Approval](knowledge-base/support/testing-gitbook-approval.md)
 
